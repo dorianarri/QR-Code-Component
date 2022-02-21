@@ -16,8 +16,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [https://github.com/surigaoadrian/qr-code-component]
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
+- Live Site URL: [https://awesome-dubinsky-ada5d7.netlify.app/]
 ## My process
 	At my first attempt i was complicationg the process, using flexbox and css grid to try to center the card. I decided to restart and simply just added the card within the container and used margin: auto; to center it.
  The only issue i had in my second attempt was the image until i just gave in and gave it a height. Overall the process is simple and from what i can tell using google's dev tools, it's responsive and looks like the design.
@@ -26,8 +25,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - HTML5
 - CSS3
-
-
 
 ### What I learned
 
