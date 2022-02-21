@@ -29,24 +29,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### What I learned
 
 - I learned the importance of divs and how block elements work.
- <div class="container">
-    <div class="card">
-      <img src="#" alt="QR Code">
-  <h2>Improve your front-end skills by building projects</h2>
-
-  <p>Scan the QR code to visit Frontend Mentor and take your coding skills to the next level</p>
-  </div>
-</div>
 
 - Also learned about vh while figuring out how to center the conatainer.
-.container{
-    max-width: 325px;
-    margin: 0 auto;
-    margin-top: 20vh;
-}
-
-
-```
 
 ### Continued development
 
