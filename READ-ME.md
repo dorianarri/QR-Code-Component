@@ -31,7 +31,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - I learned the importance of divs and how block elements work.
  <div class="container">
     <div class="card">
-      <img src="./images/image-qr-code.png" alt="QR Code">
+      <img src="#" alt="QR Code">
   <h2>Improve your front-end skills by building projects</h2>
 
   <p>Scan the QR code to visit Frontend Mentor and take your coding skills to the next level</p>
