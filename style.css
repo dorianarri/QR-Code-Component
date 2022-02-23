@@ -19,8 +19,11 @@ body p{
     color: hsl(210, 8%, 55%);
 }
 
-body h2{
+body h1{
     color: hsl(218, 44%, 22%);
+    display: block;
+    font-size: 1.5em;
+
 }
 
 .container{
